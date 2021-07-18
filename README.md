@@ -2,6 +2,12 @@
 
 =========================================
 
+***使用pyinstaller编译main文件即可***
+
+***或者前往releases下载编译好的程序***
+
+=========================================
+
 An entry form builder for SPL (Soochow Pokémon League).
 
 2021.7.12更新至Ver.2.2
